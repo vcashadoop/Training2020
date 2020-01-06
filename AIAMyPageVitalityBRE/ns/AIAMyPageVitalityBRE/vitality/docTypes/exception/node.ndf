@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <record name="record" javaclass="com.wm.util.Values">
+    <value name="node_type">record</value>
+    <value name="node_subtype">unknown</value>
+    <value name="node_nsName">AIAMyPageVitalityBRE.vitality.docTypes:exception</value>
+    <value name="node_pkg">CapG</value>
+    <value name="is_public">false</value>
+    <value name="field_name">Exception</value>
+    <value name="field_type">record</value>
+    <value name="field_dim">0</value>
+    <value name="originURI">file://S:\Project\AIA_Mypage_Vitality\Vitality_Core_2.2 - importIS.yaml</value>
+    <null name="field_opt"/>
+    <null name="wrapper_type"/>
+    <value name="nillable">true</value>
+    <null name="field_xmlns"/>
+    <value name="form_qualified">false</value>
+    <value name="is_global">false</value>
+    <array name="rec_fields" type="record" depth="1">
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">field</value>
+        <value name="node_subtype">unknown</value>
+        <value name="is_public">false</value>
+        <value name="field_name">message</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <null name="field_opt"/>
+        <null name="wrapper_type"/>
+        <value name="nillable">true</value>
+        <null name="field_xmlns"/>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">field</value>
+        <value name="node_subtype">unknown</value>
+        <value name="is_public">false</value>
+        <value name="field_name">reasonCode</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <null name="field_opt"/>
+        <null name="wrapper_type"/>
+        <value name="nillable">true</value>
+        <null name="field_xmlns"/>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">field</value>
+        <value name="node_subtype">unknown</value>
+        <value name="is_public">false</value>
+        <value name="field_name">reason</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <null name="field_opt"/>
+        <null name="wrapper_type"/>
+        <value name="nillable">true</value>
+        <null name="field_xmlns"/>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+      </record>
+    </array>
+    <null name="rec_closed"/>
+    <null name="schemaRegistered"/>
+    <value name="originURI">file://S:\Project\AIA_Mypage_Vitality\Vitality_Core_2.2 - importIS.yaml</value>
+    <value name="modifiable">false</value>
+    <null name="schemaCompliant"/>
+    <null name="elementWrapper"/>
+    <null name="wrappedElement"/>
+    <value name="LOCK_REQUIRED">false</value>
+  </record>
+</Values>

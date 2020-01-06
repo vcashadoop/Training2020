@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared"></value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.wm.lang.ns.NSService</value>
+    <value>com.wm.app.b2b.server.InvokeState</value>
+    <value>com.ibm.icu.text.SimpleDateFormat</value>
+    <value>com.ibm.icu.util.Calendar</value>
+    <value>com.wm.app.b2b.server.ServerAPI</value>
+    <value>com.wm.app.b2b.server.*</value>
+    <value>java.security.*</value>
+    <value>java.sql.Date</value>
+    <value>java.util.Stack</value>
+    <value>java.io.UnsupportedEncodingException</value>
+    <value>java.math.*</value>
+    <value>java.net.InetAddress</value>
+    <value>java.util.StringTokenizer</value>
+  </array>
+</Values>
